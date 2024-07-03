@@ -1,2 +1,2 @@
 # EndtoEndML
-collection of all machine learning an deep learning algorithms
+collection of all machine learning and deep learning algorithms
